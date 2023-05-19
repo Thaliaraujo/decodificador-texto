@@ -33,4 +33,12 @@ Por exemplo:<br>
 
 #### OBS: O projeto não está 100% responsivo. Estou me aperfeiçoando para implementar a responsividade e melhorar a experiência do usuário.
 
+<p>
+<img align="left" width="450px" style="margin-top:-20px" src="https://github.com/Thaliaraujo/decodificador-texto/blob/main/assets/decodificador.png">
+</p>
 
+<p>
+<img align="left" width="450px" style="margin-top:-20px" src="https://github.com/Thaliaraujo/decodificador-texto/blob/main/assets/decodificador2.png">
+</p>
+ 
+<div dsplay="inline-block">
