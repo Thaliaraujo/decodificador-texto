@@ -33,6 +33,9 @@ Por exemplo:<br>
 
 #### OBS: O projeto não está 100% responsivo. Estou me aperfeiçoando para implementar a responsividade e melhorar a experiência do usuário.
 
+## Visite o projeto: 
+https://thaliaraujo.github.io/decodificador-texto/
+
 <p>
 <img align="left" width="450px" style="margin-top:-20px" src="https://github.com/Thaliaraujo/decodificador-texto/blob/main/assets/decodificador.png">
 </p>
