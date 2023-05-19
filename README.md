@@ -17,6 +17,8 @@
 Por exemplo:<br>
 "abelha" => "aibenterlhai<br>
 "aibenterlhai" => "abelha"</p></li>
+<li><p>A página deve ter campos para inserção do texto a ser criptografado ou descriptografado, e a pessoa usuária deve poder escolher entre as duas opções</p></li>
+<li><p>O resultado deve ser exibido na tela.</p></li>
 </ul>
 
 <br>
@@ -26,3 +28,9 @@ Por exemplo:<br>
 <li><p> O textarea é obrigatório e exibe a mensagem "preencha este campo" caso usuário clique nos botões de criptografar ou descriptografar com a area de texto vazia.</p></li>
 <li><p> Botão de copiar no textarea de resultado, botão tem a função de Ctrl + C para facilitar a experiência do usuário.</p></li>
 </ul>
+
+<br><br>
+
+#### OBS: O projeto não está 100% responsivo. Estou me aperfeiçoando para implementar a responsividade e melhorar a experiência do usuário.
+
+
