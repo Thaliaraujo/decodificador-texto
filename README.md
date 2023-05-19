@@ -33,6 +33,8 @@ Por exemplo:<br>
 
 #### OBS: O projeto não está 100% responsivo. Estou me aperfeiçoando para implementar a responsividade e melhorar a experiência do usuário.
 
+<br><br>
+
 ## Visite o projeto: 
 https://thaliaraujo.github.io/decodificador-texto/
 
