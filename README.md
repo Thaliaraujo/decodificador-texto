@@ -12,13 +12,13 @@
 
 ### Requisitos:
 <ul>
-<li><p>Deve funcionar apenas com letras minúsculas e sem acento</p></li>
-<li><p>Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.<br>
-Por exemplo:<br>
-"abelha" => "aibenterlhai<br>
-"aibenterlhai" => "abelha"</p></li>
-<li><p>A página deve ter campos para inserção do texto a ser criptografado ou descriptografado, e a pessoa usuária deve poder escolher entre as duas opções</p></li>
-<li><p>O resultado deve ser exibido na tela.</p></li>
+   <li><p>Deve funcionar apenas com letras minúsculas e sem acento</p></li>
+   <li><p>Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.<br>
+   Por exemplo:<br>
+   "abelha" => "aibenterlhai<br>
+   "aibenterlhai" => "abelha"</p></li>
+   <li><p>A página deve ter campos para inserção do texto a ser criptografado ou descriptografado, e a pessoa usuária deve poder escolher entre as duas opções</p>    </li>
+   <li><p>O resultado deve ser exibido na tela.</p></li>
 </ul>
 
 <br>
