@@ -4,38 +4,39 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+        
+        <link rel="stylesheet" href="reset.css">
         <link rel="stylesheet" href="style.css">
         <script defer src="main.js"></script>
 
         <title>Decodificador de Texto</title>
     </head>
     <body>
-        <header>
-            <img src="assets/logo-alura.svg" alt="Logo da Alura">
+        <header class="header">
+            <img class="header_logo" src="assets/logo-alura.svg" alt="Logo da Alura">
         </header>
 
         <main>
             <section class="section">
                 <form>
-                    <textarea class="textArea" cols="41" rows="5" type="text" name="text" required  placeholder="Digite seu texto"></textarea>
-
-                    <div class="container_informacao">
+                    <textarea class="textArea" id="textArea" cols="41" rows="5" type="text" maxlength="1000" name="text" required  placeholder="Digite seu texto"></textarea>
+                    <label for="textArea"></label>
+                     <div class="container_informacao">
                         <img src="assets/exclamacao.svg" alt="Exclamaçao">
                         <p>Apenas letras minúsculas e sem acento.</p>
                     </div>
 
-                    <div class="container_button">
+                   <div class="container_button">
                         <button class="btn_encriptar" id="btn2" onclick="btnEncriptar()">Criptografar</button>
                         <button class="btn_desencriptar" onclick="btnDesencriptar()">Descriptografar</button>
                     </div>
                 </form>
             </section>
 
-            <section class="section_mensagem">
+             <section class="section_mensagem">
                 <div class="container_mensagem">
                     <img class="imagem" src="assets/garota.svg" alt="Nenhuma mensagem encontrada">
-                    <h3 class="section_mensagem_h3">Nenhuma mensagem <br>encontrada</h3>
+                    <h3 class="section_mensagem_h3">Nenhuma mensagem encontrada</h3>
                     <p class="section_mensagem_p">Digite um texto que você deseja Criptografar ou Descriptografar</p>
                 </div>
                 <div class="container_area_copiar">
@@ -43,16 +44,11 @@
                     <button class="btn_copiar" onclick="copiarMensagem()">Copiar</button>
                 </div>
             </section>
-            
         </main>
 
-        <footer class="footer">
+       <footer class="footer">
            <p>Desenvolvido por Thalía Araújo</p>
-            <ul class="footer_lista">
-                <li class="lista_ancora"><a href="https://www.linkedin.com/in/thalía-araújo/" target="_blank">Linkedin</a></li>
-                <li class="lista_ancora"><a href="https://github.com/Thaliaraujo" target="_blank">GitHub</a></li>
-            </ul>
-            
-        </footer>
+        </footer> 
     </body>
 </html>
+
