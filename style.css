@@ -95,6 +95,7 @@ textarea:focus, input:focus, select:focus {
 
 .container_mensagem{
     display: block;
+    width: 80%;
 }
 
 .imagem{
